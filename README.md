@@ -1,121 +1,112 @@
 # 👩‍💻 Nuha Tasnia Chowdhury
 
-🎓 CSE Undergraduate | 💡 Aspiring Software Engineer | 🔬 Research Enthusiast  
-
----
-
-## 🚀 About Me
-I am a Computer Science and Engineering student with a strong interest in software development, machine learning, and geospatial data analysis. I enjoy building practical applications and exploring how data-driven models can solve real-world problems.
+🎓 CSE Student | 💡 Developer | 🌍 Tech Enthusiast  
 
 ---
 
 ## 🎓 Education
-**B.Sc. in Computer Science & Engineering**  
-Leading University, Sylhet  
 
+### 🎓 B.Sc. in Computer Science & Engineering  
+**Leading University, Sylhet**  
 - Batch: 60th (Section D)  
-- Key Areas of Study:  
+- Focus Areas:  
   - Object-Oriented Programming  
-  - Calculus & Advanced Mathematics  
+  - Algorithms & Data Structures  
   - Computer Graphics  
   - Cybersecurity & Cryptography  
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 Experience
 
-### 💻 Programming
-- Dart, C++, Java  
+### 🧩 Operations & Coordination (Academic/Project-Based Experience)
+- Managed and organized workflows for multiple tasks and collaborative projects  
+- Built structured systems for scheduling, planning, and execution  
+- Developed strong problem-solving ability under time constraints  
 
-### 🤖 Machine Learning & Data Science
-- Regression Models  
-- XGBoost, LSTM  
-- Support Vector Machines (SVM)  
-- KNN, K-Means Clustering  
+### 💻 Software Development Experience
+- Worked on real-world and academic projects involving mobile apps and machine learning  
+- Collaborated in team environments to design and build solutions  
+- Applied clean coding practices and debugging techniques  
 
-### 📱 Development
-- Flutter (Mobile App Development)  
-- Supabase (Backend Services)  
+---
 
-### ⚙️ Tools & Platforms
-- Linux (Ubuntu)  
-- Git & GitHub  
+## 👩‍💼 Leadership & Activities
 
-### 🌍 Geospatial Technologies
-- Google Earth Engine  
-- Sentinel-2 Satellite Data  
-- Copernicus Data Ecosystem  
-- Water Detection using MNDWI  
-
-### 🧠 Core Concepts
-- Cryptography (RSA, AES, Vigenère)  
-- Computer Graphics Algorithms (Bresenham, DDA)  
+### 🎯 Student Leadership & Teamwork
+- Actively participated in group projects, presentations, and collaborative learning  
+- Organized academic and project-based activities  
+- Developed communication, coordination, and leadership skills  
 
 ---
 
 ## 🚀 Projects
 
 ### 🌊 Riverbank Erosion Prediction (Thesis)
-**Tech:** Machine Learning, Google Earth Engine
-
-A research-based project focused on predicting riverbank changes using satellite imagery and data-driven models.  
-
-- Applied MNDWI technique for water body extraction  
-- Built predictive models using geospatial datasets  
-- Successfully completed Thesis Part-1 defense  
+**Tech:** Machine Learning, Google Earth Engine  
+- Built predictive models using satellite imagery  
+- Applied MNDWI for water detection  
+- Analyzed environmental changes using geospatial data  
 
 ---
 
-### 🐾 Pet Marketplace App
+### 🐾 Pet Marketplace Mobile App
 **Tech:** Flutter, Supabase  
-
-A mobile app connecting pet buyers and sellers.  
-
-- Designed and developed UI using Flutter  
+- Developed a cross-platform mobile application  
 - Implemented authentication and real-time database  
-- Built a smooth cross-platform user experience  
+- Designed user-friendly interface  
 
 ---
 
-### 🏠 House Price Predictor
+### 🏠 House Price Prediction System
 **Tech:** Python, Regression Models  
-
-A machine learning project for estimating house prices.  
-
-- Processed and cleaned dataset features  
-- Applied regression techniques for continuous prediction  
-- Focused on improving prediction accuracy  
+- Cleaned and processed real estate datasets  
+- Built regression models for price prediction  
+- Focused on continuous numerical outputs  
 
 ---
 
-### 🎨 Graphics Algorithm Implementation
+### 🎨 Computer Graphics Implementation
 **Tech:** C++  
-
-Built fundamental rendering algorithms from scratch.  
-
-- Implemented Bresenham’s Line Drawing Algorithm  
-- Used DDA for graphical rendering  
-- Strengthened understanding of low-level graphics  
+- Implemented Bresenham’s Line Algorithm  
+- Applied DDA for rendering graphics  
+- Built foundational graphics logic from scratch  
 
 ---
 
-## 🔐 Security & Systems
-- Hands-on practice with basic cybersecurity techniques  
-- Experience with password cracking simulations using wordlists (Linux environment)  
-- Understanding of encryption and cipher mechanisms  
+## 🛠️ Skills
+
+### 💻 Programming
+- C, C++, Java, Python, Dart  
+
+### 🤖 Machine Learning
+- Regression Models, XGBoost, LSTM  
+- SVM, KNN, K-Means  
+
+### 📱 Development
+- Flutter, Supabase  
+
+### ⚙️ Tools
+- Linux (Ubuntu), Git, GitHub  
+
+### 🔐 Core Knowledge
+- Cryptography (RSA, AES, Vigenère)  
+- Computer Graphics Algorithms  
 
 ---
 
-## 🌐 Languages
-- English (Fluent)  
-- Bangla (Native)  
+## 🌱 Interests
+- Technology & Innovation  
+- UI/UX Design  
+- Data Science & AI  
+- Cultural Exploration  
 
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: *your-github-link*  
-- 📧 Email: *your-email*  
+- 💼 GitHub: https://github.com/nuhatasnia 
+- 📧 Email: nuhatasnianash@gmail.com  
 
 ---
 
-⭐ *Always learning, building, and exploring new technologies.*
+⭐ *Passionate about building impactful solutions and continuously learning new technologies.*
