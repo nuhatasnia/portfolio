@@ -56,7 +56,7 @@ Leading University, Sylhet
 ## 🚀 Projects
 
 ### 🌊 Riverbank Erosion Prediction (Thesis)
-**Tech:** Machine Learning, Google Earth Engine  
+**Tech:** Machine Learning, Google Earth Engine
 
 A research-based project focused on predicting riverbank changes using satellite imagery and data-driven models.  
 
